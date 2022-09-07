@@ -6,6 +6,8 @@
 
 My notebooks to [Datacamp](https://app.datacamp.com/profile/brandonogrady3) projects.
 
+Note: These are all the projects I plan on completing. It is not complete yet. 
+
 ## Python
 | Project | Description |
 | --- | --- |
