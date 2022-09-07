@@ -53,3 +53,12 @@ My notebooks to [Datacamp](https://app.datacamp.com/profile/brandonogrady3) proj
 | `Word Frequency in Moby Dick` | Use web scraping and NLP to find the most frequent words in Herman Melville's novel, Moby Dick. |
 | `Word Frequency in Peter Pan` | Use web scraping and NLP to find the most frequent words in Peter Pan by J. M. Barrie. |
 | `Writing Functions for Product Analysis` | Use coding best practices and functions to improve a script! |
+
+## SQL
+| Project | Description |
+| --- | --- |
+| `Analyze International Debt Statistics` | Write SQL queries to answer interesting questions about international debt using data from The World Bank. |
+| `Clustering Bustabit Gambling Behavior` | Use cluster analysis to glean insights into cryptocurrency gambling behavior. |
+| `Introduction to DataCamp Projects` | If you've never done a DataCamp project, this is the place to start! |
+| `TV, Halftime Shows, and the Big Game` | Load, clean, and explore Super Bowl data in the age of soaring ad costs and flashy halftime shows. |
+| `What and Where Are the World's Oldest Businesses?` | Use SQL data manipulation and joins to discover the oldest businesses around the world. |
