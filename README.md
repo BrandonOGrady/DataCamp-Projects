@@ -60,8 +60,8 @@ Note: These are all the projects I plan on completing. It is not complete yet.
 | Project | Description |
 | --- | --- |
 | `Analyze International Debt Statistics` | Write SQL queries to answer interesting questions about international debt using data from The World Bank. |
-| `Clustering Bustabit Gambling Behavior` | Use cluster analysis to glean insights into cryptocurrency gambling behavior. |
-| `Introduction to DataCamp Projects` | If you've never done a DataCamp project, this is the place to start! |
+| `Analyzing American Baby Name Trends` | Use categorization and ranking techniques to explore 101 years of American baby name tastes. |
+| `Analyzing Unicorn Companies` | Use skills gained in Intermediate SQL to find out how many companies reached a valuation of over $1 billion across different industries between 2019 and 2021! |
 | `TV, Halftime Shows, and the Big Game` | Load, clean, and explore Super Bowl data in the age of soaring ad costs and flashy halftime shows. |
 | `What and Where Are the World's Oldest Businesses?` | Use SQL data manipulation and joins to discover the oldest businesses around the world. |
 | `When Was the Golden Age of Video Games?` | Use joins and set theory to discover the best years for video games! |
