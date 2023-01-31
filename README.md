@@ -65,4 +65,5 @@ Note: These are all the projects I plan on completing. It is not complete yet.
 | `Optimizing Online Sports Retail Revenue` | Analyze product data for an online sports retail company to optimize revenue. |
 | `Analyzing Students' Mental Health in SQL` | Use skills gained from Intermediate SQL to perform exploratory data analysis on a dataset around student mental health. |
 | `Analyzing Industry Carbon Emissions` | Use your Intermediate SQL skills to explore a dataset about product carbon emissions. |
+| `What and Where are the World's Oldest Businesses` | Use joining techniques to discover the oldest businesses in the world. |
 | `When Was the Golden Age of Video Games?` | Use joins and set theory to discover the best years for video games! |
