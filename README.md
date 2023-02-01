@@ -66,4 +66,6 @@ Note: These are all the projects I plan on completing. It is not complete yet.
 | `Analyzing Students' Mental Health in SQL` | Use skills gained from Intermediate SQL to perform exploratory data analysis on a dataset around student mental health. |
 | `Analyzing Industry Carbon Emissions` | Use your Intermediate SQL skills to explore a dataset about product carbon emissions. |
 | `What and Where are the World's Oldest Businesses` | Use joining techniques to discover the oldest businesses in the world. |
+| `Analyzing Motorcycle Part Sales` | Use skills gained in the Data Analyst in SQL career track to derive insights about motorcycle part sales over time across multiple warehouse sites! |
+| `Analyzing NYC Public School Test Result Scores` | Use summary statistics and filters to analyze test scores across New York City's public schools! |
 | `When Was the Golden Age of Video Games?` | Use joins and set theory to discover the best years for video games! |
